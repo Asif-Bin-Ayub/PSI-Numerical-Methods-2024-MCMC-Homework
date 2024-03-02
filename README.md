@@ -1,5 +1,5 @@
-# PSI-Numerical-Methods-2024-MCMC-Homework
+# PSI Numerical Methods - Homework 1
 
-Homework assignment on MCMC, for PSI Numerical Methods 2024
+Homework assignment on MCMC (Markov-Chain Monte Carlo), for PSI Numerical Methods 2024.
 
-Please read the MCMC-homework-assignment.ipynb notebook for instructions!
+Please refer to the .pdf or the .ipynb file for more detail.
